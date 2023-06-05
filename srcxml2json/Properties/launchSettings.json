@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "srcxml2json": {
+      "commandName": "Project",
+      "commandLineArgs": "-json2srcxml D:\\tempf"
+    }
+  }
+}
